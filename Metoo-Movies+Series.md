@@ -1,8 +1,21 @@
-# Most Popular Metoo Movies and TV Shows - IMDb
+# Popular Movies and Series MeToo
 
-URL: https://www.imdb.com/search/keyword/?keywords=metoo
+## Netflix
 
-### 1. [The Morning Show](https://www.imdb.com/title/tt7203552/?ref_=kw_li_tt)(I) (2019– )
+* [The link between Netflix & MeToo](https://www.marliesdekkers.com/en-us/maison-marlies/the-link-between-netflix-metoo.html) by Marlies Dekkers
+  > Marlies: If we look at what caused the momentum last year, we see that there were actually several things happening at the same time. One of the most important elements was the influence of television series on Netflix and HBO. In Scandinavia, and especially in Denmark, women were given the leading roles in series. That struck. Then Netflix and HBO started to test if these female-injected series could succeed as well. When the public reacted enthusiastically, they continued to do so, with women gradually becoming more and more demanding, as in: “Hey, we need better roles.” Cinema is a reflection of the mind and I think that actresses have gained more power and become more and more articulate. Both women and men loved the new series, making the actresses push harder. I have spoken to Kathryn Winnick who starred in the Vikings series. And she literally said to me: “It feels powerful to finally have power. They’re listening to me now.” Me Too was initiated by actresses who were in the center of power at that moment during the Golden Age of the TV series. And who suddenly felt so empowered by their success and appreciation that they said: “Time’s up!” One of the heroes of this movement is actually a man: the journalist Ronan Farrow who wrote the stories that exposed [Harvey Weinstein’s](https://en.wikipedia.org/wiki/Untouchable_(2019_film)) decades-long sexual predation. Interestingly enough, Ronan’s father, Woody Allen, was also accused of sexual assault. I guess everything is coming full circle right now…
+* [Unbelievable](https://www.netflix.com/title/80153467) 2019 - After a young woman is accused of lying about a rape, two female detectives investigate a spate of eerily similar attacks. Inspired by true events.
+  * ['Unbelievable' Team on How Netflix Rape Series Shows "There's No Right Way to Respond to a Trauma"](https://www.hollywoodreporter.com/live-feed/netflix-rape-series-unbelievable-team-trauma-responses-1226065)
+* [Bikram: Yogi, Guru, Predator](https://www.netflix.com/title/80221584) - 2019 - This documentary charts the rise and fall of hot yoga founder Bikram Choudhury as his global empire is born and disturbing revelations come to light.
+  * [Netflix’s documentary ‘Bikram’ sheds light on how #MeToo men get away with it](https://www.fastcompany.com/90432820/netflixs-documentary-bikram-sheds-light-on-how-metoo-men-get-away-with-it) 11-20-19
+    > Eva Orner talks about why she made ‘Bikram,’ a look at the rampant sexual abuse by the founder of Bikram yoga and the cult-like atmosphere that kept it hidden.
+* [Surviving R. Kelly](https://www.netflix.com/title/81069393)
+  * [‘Surviving R. Kelly’: Powerful Docuseries Is a Reckoning for the Singer — And Us](https://www.rollingstone.com/tv/tv-features/surviving-r-kelly-lifetime-docuseries-review-774317/)
+    > Lifetime’s harrowing six-part docuseries paints a textbook picture of an abuser and gives a voice to survivors who’ve long been silenced
+
+## [Popular Metoo Movies and TV](https://www.imdb.com/search/keyword/?keywords=metoo) - IMDb - 7-2-20
+
+### 1. [The Morning Show](https://www.imdb.com/title/tt7203552/?ref_=kw_li_tt)(I) (2019–)
 
 An inside look at the lives of the people who help America wake up in the morning, exploring the unique challenges faced by the men and women who carry out this daily televised ritual.
 
