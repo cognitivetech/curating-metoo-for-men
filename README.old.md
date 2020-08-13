@@ -6,37 +6,6 @@
 * [higherunlearning.com/](https://higherunlearning.com/)
 * [Home — Men Can Stop Rape](https://mcsr.org/home)
 
-## Assorted
-
-* [From #MeToo to Men Too: How Men Can Prevent Harassment and Abuse](https://www.feminist.com/resources/artspeech/interviews/iwillspeakup.html)
-  >  If you need a place to start, you can watch A CALL TO MEN CEO Tony Porter’s TED Talk and challenge how you have been socialized to view women as objects, property and having less value than men. After that self-reflection, start living by the principles of healthy, respectful manhood, and valuing women, girls and those of us who do not conform to a gender binary. We know that if we can get men to embrace and promote a healthy, respectful manhood, we will prevent violence and discrimination against women, sexual assault, sexual harassment, bullying and many other social ills. Men will also be healthier, whole and authentic men. Finally, all men can use their influence and platform to speak out about these issues. Some men don’t even realize they have a platform, but they all do. All men have friends, colleagues, family members, and young men and boys in their lives that they can talk to about healthy, respectful manhood. 
-* [Kavanaugh accusers' delay could be blamed on shame, psychologists say](https://www.usatoday.com/story/news/investigations/2018/09/26/shame-sexual-assault-trauma-victim-blaming-kavanaugh/1381881002/)
-* [The Collective Power of #MeToo - Dissent Magazine](https://www.dissentmagazine.org/article/collective-power-of-me-too-organizing-justice-patriarchy-class)
-* [A Role for Men in the #MeToo Movement](https://www.asaecenter.org/resources/articles/an_plus/2018/august/a-role-for-men-in-the-metoo-movement)
-  > The #MeToo movement is about basic human rights. The right not to be touched without consent. The right not to be coerced. The right to be left alone. Our laws limit the power of the government and other private citizens to touch us or follow us around or force us to do something we don’t want to do, but a different standard often applies when women complain about men’s unwanted behavior. That conduct is often accepted as “the way of the world” or “how men and women interact.” A woman reporting harassment is told she is being too sensitive.
-  > 
-  > If we accept that men have more power than women and that women have a legitimate claim to better treatment, and if we believe in basic human rights and dignity, then men are compelled to speak up and join the #MeToo movement—not as men advocating for women, but as human beings advocating for better treatment of our fellow human beings.
-* [#MeToo won’t end sexual harassment – but here’s what will, experts say - World Economic Forum](https://www.weforum.org/agenda/2018/01/metoo-sexual-harassment-what-experts-say/)
-  > Outside the media’s gaze, things – or at least attitudes – also appear to be changing for the better. In 2016 a survey of US voters revealed that only 30% of respondents thought sexism was a “big” problem in American society. When the same question was put to voters a year later, that figure had risen to 44%.
-  > 
-  > Of course, as promising as all this is, it’s still only a small step in the right direction. “This is no doubt a watershed moment in empowering victims to speak up and share stories,” Sandberg argued in her Facebook post. “But it is not enough. We need systemic, lasting changes that deter bad behaviour and protect everyone, from professionals climbing the corporate ladder to workers in low-paid positions who often have little power.”
-* [How do young men navigate consent in a post Me Too world? - Positive News](https://www.positive.news/society/how-do-young-men-navigate-consent-in-a-post-me-too-world/)
-  > Like most people his age, Whale’s school sex ed consisted of basic biology and an assertion that ‘no means no’. But as the Me Too movement and the recent conviction of disgraced Hollywood producer Harvey Weinstein shows, consent is more complicated than that.
-  > 
-  > Very few young people are taught what it means when someone equivocates, changes their mind or doesn’t say anything at all. In 2018, Childlike reported a 29 per cent increase in teenagers seeking advice on peer-on-peer sexual abuse. The organisation noted that callers lacked understanding about consent and how it applied within relationships. Meanwhile, a 2019 survey of 5,649 university students by sexual health charity Brook found that 56 per cent had encountered unwelcome sexual behaviour.
-* [I thought all men got #MeToo. I was wrong - Deborah Frances-White - Opinion - The Guardian](https://www.theguardian.com/commentisfree/2018/dec/31/men-metoo-power-women-feelings)
-* [Me Too movement: From Weinstein to Kavanaugh, change for women, LGBTQ?](https://www.usatoday.com/story/news/nation/2019/09/30/me-too-movement-women-sexual-assault-harvey-weinstein-brett-kavanaugh/1966463001/)
-  > When #MeToo exploded in the fall of 2017, its most optimistic promise was that it would become more than a hashtag, more than a brief interruption in America's regularly scheduled sexism, more than a reckoning for famous men who had abused wealthy, white women.
-  > 
-  > [...]
-  > 
-  > Experts say while victims feel more comfortable speaking openly about their experiences, not enough attention is paid to perpetrators – why they commit violence and why they continue to get away with it.
-  > 
-  > "You can increase your compassion for victims and survivorship, but paying attention to how perpetrators set things up and get away with it is a ledge we haven't yet crossed," Houser said.
-* [Believing First: A Man’s First Step To Allyhood in the #MeToo Movement](https://caps.umich.edu/article/believing-first-man’s-first-step-allyhood-metoo)
-  > Being an ally is more multifaceted than simply offering verbal support. Allyship requires showing up, listening, educating yourself, and speaking up. With regards to the #MeToo Movement, one component of allyship is demonstrating that you believe the experience, story, and pain without hesitation, doubt, and disbelief. Actively affirming the truth that has been shared is vital. CAPS has chosen to focus specifically on this one component because it can be both simple and very difficult for many men. At the same time, this critical first step can be transformative for survivors, our UM community, and work towards greater allyship.
-* [Men and the #MeToo Movement: Examining Past Behaviors - U-M Counseling and Psychological Services](https://caps.umich.edu/article/men-and-metoo-movement-examining-past-behaviors)
-  > The focus of this article is to help men examine, and ultimately change, behavior on an individual level. This process can be difficult and examining one’s own actions may cause men to feel confusion, anger, or altogether stuck. These reactions are normal when a man recognizes some of his past behaviors misalign with his values or have harmed someone, regardless of his intent. The next step, then, is not to remain stuck but to see this as an opportunity to acknowledge, address, and correct the hurt that they may have caused. While it may not be a man’s intent to make a woman feel pressured, coerced, or fearful, impact and not intent is what is important as allies in the #MeToo Movement.   
 
 ### National Organization for Men Against Sexism
 
@@ -86,6 +55,14 @@
 * [How to Know if a Woman Wants You to Stop Hitting on Her - GQ](https://www.gq.com/story/stop-hitting-on-her)
   > If you decide to approach a woman in a non-horny setting—e.g., at the gas station, at the scene of an accident you just caused, or at a café where she’s reading quietly by herself—then you need to be *extra* careful to read the situation. Again, these places might seem ripe for meet-cutes in movies (the juxtaposition of romantic moment and unromantic location!), but in the real world they’re places where women are usually alone. This dynamic probably makes you, the approacher, feel less threatened, but it makes her, the approached, feel like she’s in the kitchen in *Jurassic Park* with velociraptors scraping at the door handles. If she keeps going about her business even as you try to approach her, that’s a great sign that (surprise!) she is not interested. Let her carry on with her day. Likewise, if she’s giving you short, one-word answers and doesn’t ask you any questions about yourself, that’s also a pretty good sign that she’s not interested.
 
+## Men Can Stop Rape
+
+* [Men Can Stop Rape](https://mcsr.org/) - To mobilize men to use their strength for creating cultures free from violence, especially men's violence against women. 
+* [Prevent Sexual Assault on College Campuses and in the Military](https://www.acalltomen.org/impact-prevent-sexual-assault)
+  > A CALL TO MEN on Campus is the organization’s outreach to colleges and universities.  A CALL TO MEN on Campus works with administrators, student leaders, the student body and the community at large to facilitate conversations and provide education on methods and strategies to prevent sexual assault, violence and discrimination on college campuses.  It is ideal for Greek and fraternal organizations, student athletes, coaching staff, incoming freshman, non-traditional students, international students, women’s centers and faculty. 
+* [16 ways you can stand against rape culture](https://www.unwomen.org/en/news/stories/2019/11/compilation-ways-you-can-stand-against-rape-culture)
+  > 
+
 ## History
 
 * [Me Too movement - Wikipedia - Timeline](https://en.wikipedia.org/wiki/Me_Too_movement)
@@ -123,3 +100,47 @@
     > Because the data was collected soon after the #MeToo movement gained momentum, and because much of it focused on expectations, the researchers conducted a follow-up survey (with different people) in early 2019. This revealed a bigger backlash than respondents had anticipated. For instance, 19% of men said they were reluctant to hire attractive women, 21% said they were reluctant to hire women for jobs involving close interpersonal interactions with men (jobs involving travel, say), and 27% said they avoided one-on-one meetings with female colleagues; only one of those numbers was lower in 2019 than the numbers projected the year before. The researchers say that some of the behaviors are manifestations of what is sometimes called the Mike Pence rule—a reference to the U.S. vice president’s refusal to dine with female colleagues unless his wife is present. “I’m not sure we were surprised by the numbers, but we were disappointed,” says Rachel Sturm, a professor at Wright State University who worked on the project. “When men say, ‘I’m not going to hire you, I’m not going to send you traveling, I’m going to exclude you from outings’—those are steps backward.”
     > 
     > In 2015 the Canadian Armed Forces launched Operation HONOUR, aimed at preventing sexual misconduct and assault among military personnel. As part of that effort Denise Preston, a psychologist who has worked with victims and imprisoned sex offenders, was hired in 2017 as the executive director of the Sexual Misconduct Response Centre, which operates outside the military chain of command to support victims of sexual misconduct and lead prevention efforts. She spoke with HBR about the center’s work. Edited excerpts follow.
+
+## Restorative
+
+[Can #MeToo Offenders Initiate Restoration?](https://nacrj.org/index.php?option=com_content&view=article&id=510:can-metoo-offenders-initiate-restoration&catid=63&Itemid=1009)
+[Growing Efforts Are Looking At How — Or If — #MeToo Offenders Can Be Reformed](https://www.npr.org/2019/10/10/766834753/growing-efforts-are-looking-at-how-or-if-metoo-offenders-can-be-reformed)
+[Our story of rape and reconciliation](https://www.ted.com/talks/thordis_elva_and_tom_stranger_our_story_of_rape_and_reconciliation/up-next)
+[#MeToo, Wrongs against Women, and Restorative Justice](https://heinonline.org/HOL/LandingPage?handle=hein.journals/kjpp28&div=27&id=&page=)
+[Punishing Sexual Predators Isn’t Enough. We Need to Give Them a Path to Make Things Right](https://fortune.com/2019/09/17/metoo-movement-men-sexual-harassment/)
+[#MeToo, Time's Up, and Theories of Justice](https://experts.illinois.edu/en/publications/metoo-times-up-and-theories-of-justice)
+[Enough with naming and shaming: It’s time for restorative justice in Hollywood.](https://www.washingtonpost.com/lifestyle/style/enough-with-naming-and-shaming-its-time-for-restorative-justice-in-hollywood/2018/02/01/416ccf80-0518-11e8-b48c-b07fea957bd5_story.html)
+[#CCRewind: Restorative Justice for the #MeToo Movement?](https://www.newamerica.org/millennials/dm/ccrewind-restorative-justice-metoo-movement/)
+[WHAT CAN WE LEARN ABOUT APOLOGIES FROM THE #METOO MOMENT?](https://www.bates.edu/news/2020/03/13/what-can-we-learn-about-apologies-from-the-metoo-moment/)
+
+## Assorted
+
+* [From #MeToo to Men Too: How Men Can Prevent Harassment and Abuse](https://www.feminist.com/resources/artspeech/interviews/iwillspeakup.html)
+  >  If you need a place to start, you can watch A CALL TO MEN CEO Tony Porter’s TED Talk and challenge how you have been socialized to view women as objects, property and having less value than men. After that self-reflection, start living by the principles of healthy, respectful manhood, and valuing women, girls and those of us who do not conform to a gender binary. We know that if we can get men to embrace and promote a healthy, respectful manhood, we will prevent violence and discrimination against women, sexual assault, sexual harassment, bullying and many other social ills. Men will also be healthier, whole and authentic men. Finally, all men can use their influence and platform to speak out about these issues. Some men don’t even realize they have a platform, but they all do. All men have friends, colleagues, family members, and young men and boys in their lives that they can talk to about healthy, respectful manhood. 
+* [Kavanaugh accusers' delay could be blamed on shame, psychologists say](https://www.usatoday.com/story/news/investigations/2018/09/26/shame-sexual-assault-trauma-victim-blaming-kavanaugh/1381881002/)
+* [The Collective Power of #MeToo - Dissent Magazine](https://www.dissentmagazine.org/article/collective-power-of-me-too-organizing-justice-patriarchy-class)
+* [A Role for Men in the #MeToo Movement](https://www.asaecenter.org/resources/articles/an_plus/2018/august/a-role-for-men-in-the-metoo-movement)
+  > The #MeToo movement is about basic human rights. The right not to be touched without consent. The right not to be coerced. The right to be left alone. Our laws limit the power of the government and other private citizens to touch us or follow us around or force us to do something we don’t want to do, but a different standard often applies when women complain about men’s unwanted behavior. That conduct is often accepted as “the way of the world” or “how men and women interact.” A woman reporting harassment is told she is being too sensitive.
+  > 
+  > If we accept that men have more power than women and that women have a legitimate claim to better treatment, and if we believe in basic human rights and dignity, then men are compelled to speak up and join the #MeToo movement—not as men advocating for women, but as human beings advocating for better treatment of our fellow human beings.
+* [#MeToo won’t end sexual harassment – but here’s what will, experts say - World Economic Forum](https://www.weforum.org/agenda/2018/01/metoo-sexual-harassment-what-experts-say/)
+  > Outside the media’s gaze, things – or at least attitudes – also appear to be changing for the better. In 2016 a survey of US voters revealed that only 30% of respondents thought sexism was a “big” problem in American society. When the same question was put to voters a year later, that figure had risen to 44%.
+  > 
+  > Of course, as promising as all this is, it’s still only a small step in the right direction. “This is no doubt a watershed moment in empowering victims to speak up and share stories,” Sandberg argued in her Facebook post. “But it is not enough. We need systemic, lasting changes that deter bad behaviour and protect everyone, from professionals climbing the corporate ladder to workers in low-paid positions who often have little power.”
+* [How do young men navigate consent in a post Me Too world? - Positive News](https://www.positive.news/society/how-do-young-men-navigate-consent-in-a-post-me-too-world/)
+  > Like most people his age, Whale’s school sex ed consisted of basic biology and an assertion that ‘no means no’. But as the Me Too movement and the recent conviction of disgraced Hollywood producer Harvey Weinstein shows, consent is more complicated than that.
+  > 
+  > Very few young people are taught what it means when someone equivocates, changes their mind or doesn’t say anything at all. In 2018, Childlike reported a 29 per cent increase in teenagers seeking advice on peer-on-peer sexual abuse. The organisation noted that callers lacked understanding about consent and how it applied within relationships. Meanwhile, a 2019 survey of 5,649 university students by sexual health charity Brook found that 56 per cent had encountered unwelcome sexual behaviour.
+* [I thought all men got #MeToo. I was wrong - Deborah Frances-White - Opinion - The Guardian](https://www.theguardian.com/commentisfree/2018/dec/31/men-metoo-power-women-feelings)
+* [Me Too movement: From Weinstein to Kavanaugh, change for women, LGBTQ?](https://www.usatoday.com/story/news/nation/2019/09/30/me-too-movement-women-sexual-assault-harvey-weinstein-brett-kavanaugh/1966463001/)
+  > When #MeToo exploded in the fall of 2017, its most optimistic promise was that it would become more than a hashtag, more than a brief interruption in America's regularly scheduled sexism, more than a reckoning for famous men who had abused wealthy, white women.
+  > 
+  > [...]
+  > 
+  > Experts say while victims feel more comfortable speaking openly about their experiences, not enough attention is paid to perpetrators – why they commit violence and why they continue to get away with it.
+  > 
+  > "You can increase your compassion for victims and survivorship, but paying attention to how perpetrators set things up and get away with it is a ledge we haven't yet crossed," Houser said.
+* [Believing First: A Man’s First Step To Allyhood in the #MeToo Movement](https://caps.umich.edu/article/believing-first-man’s-first-step-allyhood-metoo)
+  > Being an ally is more multifaceted than simply offering verbal support. Allyship requires showing up, listening, educating yourself, and speaking up. With regards to the #MeToo Movement, one component of allyship is demonstrating that you believe the experience, story, and pain without hesitation, doubt, and disbelief. Actively affirming the truth that has been shared is vital. CAPS has chosen to focus specifically on this one component because it can be both simple and very difficult for many men. At the same time, this critical first step can be transformative for survivors, our UM community, and work towards greater allyship.
+* [Men and the #MeToo Movement: Examining Past Behaviors - U-M Counseling and Psychological Services](https://caps.umich.edu/article/men-and-metoo-movement-examining-past-behaviors)
+  > The focus of this article is to help men examine, and ultimately change, behavior on an individual level. This process can be difficult and examining one’s own actions may cause men to feel confusion, anger, or altogether stuck. These reactions are normal when a man recognizes some of his past behaviors misalign with his values or have harmed someone, regardless of his intent. The next step, then, is not to remain stuck but to see this as an opportunity to acknowledge, address, and correct the hurt that they may have caused. While it may not be a man’s intent to make a woman feel pressured, coerced, or fearful, impact and not intent is what is important as allies in the #MeToo Movement.   
